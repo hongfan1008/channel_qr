@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/channel-qr.iml" filepath="$PROJECT_DIR$/channel-qr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test2/open/open/open.iml" filepath="$PROJECT_DIR$/../test2/open/open/open.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test2/open/open-parent.iml" filepath="$PROJECT_DIR$/../test2/open/open-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test2/open/open-sdk/open-sdk.iml" filepath="$PROJECT_DIR$/../test2/open/open-sdk/open-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test2/open/open-sdk/open-sdk-java/open-sdk-java.iml" filepath="$PROJECT_DIR$/../test2/open/open-sdk/open-sdk-java/open-sdk-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test2/open/open-server/open-server.iml" filepath="$PROJECT_DIR$/../test2/open/open-server/open-server.iml" />
+    </modules>
+  </component>
+</project>

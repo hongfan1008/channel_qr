@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="open-server" />
+        <module name="open-sdk-java" />
+        <module name="channel-qr" />
+        <module name="open" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="channel-qr" target="1.8" />
+      <module name="open" target="1.8" />
+      <module name="open-parent" target="1.5" />
+      <module name="open-sdk" target="1.5" />
+      <module name="open-sdk-java" target="1.8" />
+      <module name="open-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="open-server" options="-parameters" />
+    </option>
+  </component>
+</project>
